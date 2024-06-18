@@ -14,6 +14,7 @@ In this project, I've utilized GCP services to streamline the data ingestion, tr
 - **Google BigQuery**: Used for its powerful analytical capabilities, allowing us to perform complex queries over large datasets quickly and cost-effectively.
 
 ## Detailed Pipeline Stages
+<img width="1056" alt="Untitled" src="https://github.com/praneeth0810/Enhancing-E-Commerce-Profitability--Building-a-Daily-Product-Revenue-Data-Pipeline/assets/66296370/5afd8d61-a9f7-4b06-86f7-724cd92f10a5">
 
 ### Ingestion
 - **Data Sources**: The pipeline ingests two primary datasets: `orders` and `order_items`, which include essential transaction details such as order ID, date, status, quantities, and product pricing.
